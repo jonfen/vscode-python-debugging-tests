@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-azuretools.vscode-docker",
+        "mikestead.dotenv",
+        "ms-python.python",
+        "visualstudioexptteam.vscodeintellicode",
+        "firefox-devtools.vscode-firefox-debug",
+        "dawhite.mustache",
+        "ms-mssql.mssql",
+        "msjsdiag.debugger-for-chrome",
+        "eamodio.gitlens",
+        "rozpuszczalny.vscode-redmine",
+        "ms-python.vscode-pylance",
+        "magicstack.magicpython"
+    ]
+}
